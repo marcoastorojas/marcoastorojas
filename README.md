@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm marco</h1>
+<h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
 - 💬 Ask me about **react, angular, node**
